@@ -1,0 +1,14 @@
+En:
+
+The program was developed with Python (v2.7). For dependencies, please run 'pip_install.sh'.
+After that, run 'run_config.sh' and give the correct information.
+Finally, run 'run_program.sh' and wait ! Each hour, the program will test if there is any new mark available.
+
+!! The password is encrypted (with a passphrase)
+
+Fr:
+Le programme a été développé avec Python (v2.7). Pour une question de dépendances, veuillez s.v.p lancer en premier 'pip_install.sh'.
+Après cela, lancer 'run_config.sh' et donner les informations correctes.
+Enfin, lancer 'run_program.sh' et attendez qu'il y ai du neuf ! Le programme vérifira chaque heure si tel est le cas.
+
+!! Le mot de passe est chiffré (d'ou la nécésité d'un passphrase!).
